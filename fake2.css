@@ -1,0 +1,80 @@
+html{
+    scroll-behavior: smooth;
+}
+#sec{
+padding: 50px 10px ;
+
+}
+/* #sec::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('	https://img.freepik.com/free-photo/top-view-newspa…6451521dcd0cb291f2a5f07188a290c3279343974be0eebea'); /* Replace with your image path */
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.5; /* Adjust the opacity as needed */
+    /* z-index: 1; /* Ensure the pseudo-element is behind the #sec content */
+
+.container1::before
+{
+    background-image: url('	https://img.freepik.com/free-photo/top-view-newspa…6451521dcd0cb291f2a5f07188a290c3279343974be0eebea');
+    z-index: -1;;
+}
+
+
+
+
+
+#sec1{
+    padding: 50px 10px ;
+}
+#sec2{
+    padding: 50px 10px ;
+}
+#sec3{
+    padding: 50px 10px ;
+}
+#sec4{
+    padding: 50px 10px ;
+}
+
+#sec5{
+    padding: 50px 10px ;
+    text-align: center;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h2, h4, h5, h6 {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+h1{
+    padding: 25px 10px;
+}
+#quotes1{
+    text-align: center;
+}
+
+.form-control{
+    margin: auto;
+    width: fit-content;
+}
+.form1 {
+    margin-top: 3rem;
+    border: 2px dashed gray;
+    width: fit-content;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 1.5rem;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    opacity: .5;
+    margin: 0;
+    padding: 0;
+}
+.img-fluid{
+    opacity: 0.6 ;
+}
